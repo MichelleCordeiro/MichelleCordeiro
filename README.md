@@ -4,6 +4,7 @@
 -->
 
 <h2 align="left"> Hi, I'm Michelle Cordeiro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align="right" height="590em" src="https://i.postimg.cc/Kc0MFZbj/Github-card.png">
 
 - 💻 I'm front-end developer
 - 🌱 I’m currently learning JavaScript and React
