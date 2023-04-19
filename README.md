@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=MichelleCordeiro.MichelleCordeiro)
 -->
 <h2 align="left"> Hi, I'm Michelle Cordeiro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align="right" height="590em" src="https://i.postimg.cc/Kc0MFZbj/Github-card.png">
+<img align="right" height="590em" src="https://i.postimg.cc/PJ7m2W7x/Github-card.png">
 
 
 <h3> About me </h3>
