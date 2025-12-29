@@ -46,7 +46,7 @@
 <code><img width="24" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
 <code><img width="24" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" /></code>
 <code><img width="24" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img width="24" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" /></code>
+<code><img width="20" height="24" src="/logos/Figma_logo_color.webp" /></code>
 
 <code><img width="24" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
 <code><img width="24" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></code>
@@ -64,14 +64,14 @@
 <h2> 📊 Analytics & Highlights: </h2>
   
   <div align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellecordeiro&layout=compact&card_width=400&hide_title=false&theme=dracula&border_color=515151&hide=Python,Jupyter%20Notebook&langs_count=4">
+    <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michellecordeiro&layout=compact&card_width=400&hide_title=false&theme=dracula&border_color=515151&hide=Python,Jupyter%20Notebook&langs_count=4">
     </a>&nbsp;
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=true">
       <img height="140" alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/michellecordeiro?cardType=level&theme=dracula&Border=515151&preferLogin=true&text_bold=true" />
     </a>&nbsp;
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <img height="157" src="https://github-readme-streak-stats.herokuapp.com/?user=MichelleCordeiro&theme=dracula&border=515151&fire=orange">
+       <img height="157" src="https://github-readme-stats-fast.vercel.app/api/streak?username=MichelleCordeiro&theme=dracula&border=515151&fire=orange">
     </a>&nbsp;
   </div>
 
@@ -89,11 +89,10 @@
 
 
 <br><br>
-<h2> 🧮 Visitors Count </h2>
+<h2> 🧮 Visitors </h2>
+<img width="300" align="center" src="https://counter.kuber.studio/MichelleCordeiro/dark/count.svg" alt="Profile views" />
 
-<img width="150" align="center" src="https://profile-counter.glitch.me/MichelleCordeiro/count.svg" />
-
-<!-- 
+<!--
 <br>
 <h2> 🧮 Stats </h2>
 
